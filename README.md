@@ -28,7 +28,7 @@ The system is structured into multiple layers:
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/order-management-system.git
+   git clone https://github.com/CalinaBorzan/Orders-Management.git
    ```
 2. Import the project into your Java IDE.
 3. Configure the MySQL database:
